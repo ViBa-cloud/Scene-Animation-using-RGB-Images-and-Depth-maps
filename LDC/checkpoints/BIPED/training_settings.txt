@@ -1,0 +1,1 @@
+['LDC, Xavier Normal Init, LR= 5e-05 WD= 0.0 image size = 352 adjust LR=[6, 12, 18] LRs= [0.0025, 0.0005, 1e-05] Loss Function= CAST-loss2.py Sun Nov 26 13:09:40 2023LDC-BIPED: B4 Exp 67L3 xavier init normal+ init normal CatsLoss2 Cofusion']

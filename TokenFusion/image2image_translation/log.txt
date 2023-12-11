@@ -1,0 +1,6 @@
+Namespace(batch_size=1, beta1=0.5, beta2=0.999, ckpt='/home/suryasin/TokenFusion/image2image_translation', crop_size=256, dec=[0], enc=[0], exchange=1, fliplr=True, gama=100, gpu=[4], img_types=[0, 6, 4], input_size=256, insnorm_threshold=0.01, lamda=0.001, lrD=0.0002, lrG=0.0002, ndf=64, ngf=64, num_epochs=300, print_loss=False, resize_scale=286, val_every=5)
+
+rgb, edge_occlusion -> depth_zbuffer
+Epoch   0 (rgb)             l1_avg_loss: 0.32861   rl2_avg_loss: 0.40011   fid: 374.860   kid: 15.887
+Epoch   0 (edge_occlu)      l1_avg_loss: 0.32969   rl2_avg_loss: 0.40327   fid: 386.160   kid: 16.387
+Epoch   0 (ens)             l1_avg_loss: 0.32635   rl2_avg_loss: 0.39832   fid: 386.882   kid: 17.098
